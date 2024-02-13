@@ -23,4 +23,4 @@ Sentiment analysis is valuable for understanding the emotional tone of text data
 2. Install Dependencies: Ensure you have the required libraries installed by running:
    ```bash
    pip install -r requirements.txt
-3. Run the Notebook: Open the Jupyter notebook SentimentAnalysis.ipynb to explore the sentiment analysis process step by step. Execute each cell to understand the code and visualize the results.
+3. Run the Notebook: Open the Jupyter notebook 'SentimentAnalysis.ipynb' to explore the sentiment analysis process step by step. Execute each cell to understand the code and visualize the results.
