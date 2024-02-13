@@ -6,6 +6,16 @@ This project demonstrates sentiment analysis in Python using two different techn
 # Why the Project is Useful
 Sentiment analysis is valuable for understanding the emotional tone of text data. In this project, we employ VADER, a rule-based sentiment analysis tool, and a pre-trained Roberta model, a transformer-based approach. The combination provides insights into both traditional and advanced sentiment analysis methods, catering to different user preferences and requirements.
 
+# Tech Stack and concepts used
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. NLTK
+6. VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach
+7. Roberta Pretrained Model from 🤗
+8. Huggingface Pipeline
+
 # Get Started with the Project
 1. Clone the Repository:
    ```bash
